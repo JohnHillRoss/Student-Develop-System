@@ -42,6 +42,6 @@
 
 - StuDevINformation.txt 文件界面
 
-
+![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevInformation.png)
 
 
