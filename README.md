@@ -34,12 +34,14 @@
 >9. ReadStudent:*读取学生信息（读取StuDevInformation.txt文件中学生信息)*
 
 -----------------------------------------------------------------------------------------------
-## 基本操作
-- 主菜单
->1. 按照提示输入序号
->2. 注意：要先输入序号5才能实现读取功能（若中途输入序号5会产生bug）
+## 界面显示
+- 主菜单界面
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/menulist.png)
 
 
-- 
+- StuDevINformation.txt 文件界面
+
+
+
+
