@@ -30,7 +30,7 @@
 - 主菜单
 >按照提示输入序号
 
-![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/menulist.png)
+![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevSystem.png)
 
 
 - 
