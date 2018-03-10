@@ -1,5 +1,6 @@
 # Student-Develop-System
 *This is a system that can guide students to learn and to promote the development of students.*
+
 -----------------------------------------------------------------------------------------------
 ## 功能简介
 
@@ -13,8 +14,13 @@
 ## 流程图
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevSystem.png)
+
 -----------------------------------------------------------------------------------------------
 ## 基本操作
 - 主菜单
+>按照提示输入序号
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/menulist.png)
+
+
+- 
