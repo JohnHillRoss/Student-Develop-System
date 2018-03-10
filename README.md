@@ -13,7 +13,7 @@
 -----------------------------------------------------------------------------------------------
 ## 流程图及其解释
 
-![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevSystem.png)
+
 
 - MenuList:主菜单
 - CreatStudent:创建学生信息
