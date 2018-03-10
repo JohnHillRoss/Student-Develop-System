@@ -1,5 +1,6 @@
 # Student-Develop-System
 *This is a system that can guide students to learn and to promote the development of students.*
+-----------------------------------------------------------------------------------------------
 ## 功能简介
 
 - 添加学生信息
