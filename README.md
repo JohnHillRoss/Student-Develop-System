@@ -37,6 +37,7 @@
 ## 基本操作
 - 主菜单
 >按照提示输入序号
+>注意：要先输入序号5才能实现读取功能（若中途输入序号5会产生bug）
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/menulist.png)
 
