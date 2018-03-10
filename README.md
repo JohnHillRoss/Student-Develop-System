@@ -22,8 +22,8 @@
 - CheckStudent:检查学生信息（输入端）（1.按学生name查找/2.按学生ID查找）
 - CheckStudent_1:检查学生信息（输出端）（1.1.按学生name输出/2.按学生ID输出/3.按学生major输出/4.按学生score输出/5.按学生career输出）
 - StaStudent:统计学生信息（1.统计录进系统学生人数/2.统计成绩合格学生人数）
-- SaveStudent:保存学生信息（保存在与源文件同文件夹的StuDevSystem.txt文件中）
-- ReadStudent:读取学生信息（读取StuDevSystem.txt文件中学生信息）
+- SaveStudent:保存学生信息（保存在与源文件同文件夹的StuDevInformation.txt文件中）
+- ReadStudent:读取学生信息（读取StuDevInformation.txt文件中学生信息）
 
 -----------------------------------------------------------------------------------------------
 ## 基本操作
