@@ -13,3 +13,6 @@
 ## 流程图
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevSystem.png)
+-----------------------------------------------------------------------------------------------
+## 基本操作
+- 主菜单
