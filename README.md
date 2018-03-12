@@ -40,7 +40,7 @@
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/menulist.png)
 
 
-- StuDevINformation.txt 文件界面
+- StuDevInformation.txt 文件界面
 
 ![](https://github.com/JohnHillRoss/Student-Develop-System/blob/master/StuDevInformation.png)
 
@@ -63,6 +63,7 @@
 -----------------------------------------------------------------------------------------------
 ## 讨论与交流
 - 目的：该系统旨在引导学生学习方向，促进学生发展。
+
 - 方法：
 1. 收集学生的信息包括（学习专业、学科成绩、考取的证书、理想职业......)
 2. 收集用人单位的信息包括（所提供的职位、所需的学历、所需的证书、所提供的月薪......)
