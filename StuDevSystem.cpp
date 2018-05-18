@@ -149,11 +149,12 @@ void SaveStudent()
 	{
 		Student *ptr = head.next;
 		while (ptr)
+		{
 			fprintf(SaveFile, "%s \t %ld \t\t %s \t\t %f \t\t %s \n", ptr->name, ptr->ID, ptr->major, ptr->score, ptr->career);
 			ptr = ptr->next;
 		}
 		cout << "The file has saved successfully" << endl;
-		ListStudent();   //
+		ListStudent();
 	}
 }
 
